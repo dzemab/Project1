@@ -1,5 +1,5 @@
 fun main() {
-    val inputVal = "asdasd"
+    val inputVal = "A3DS3R2T2HA4"
     var result = " "
 
     var countChar = 1
