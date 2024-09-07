@@ -1,6 +1,7 @@
 fun main() {
     val inputVal = "asdasd"
     var result = " "
+
     var countChar = 1
     var previousChar = inputVal[0]
 
